@@ -19,6 +19,16 @@ nav{
     justify-content: space-between;
     margin-bottom: 30px;
 }
+nav .circle{
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 50%;
+    color: #f53192;
+    box-shadow:0 5px 15px rgb(255, 26, 26, 0.22);
+    background: #ffffff;
+    
+}
 img{
     width: 40%;
     height: 50%;
